@@ -1,6 +1,6 @@
 // Filename: csDriver.cpp
 //
-// Driver for the event calendar prototype.
+// Driver for CharStack.cpp/h
 
 #include "CharStack.h"
 #include <iostream>
