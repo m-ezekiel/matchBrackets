@@ -1,5 +1,7 @@
-// Specification file for the CharStack class
-// Replace with proper header.
+// Filename: CharStack.h
+// Author: Jill Seaman (file provided)
+// CS 2308.252 SPRING 2016
+// Instructor: Jill Seaman
 
 #include <string>
 using namespace std;
